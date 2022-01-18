@@ -1,4 +1,4 @@
-#Live Demo
+# Live Demo
 https://hritikpandey22.github.io/Sorting-Visualizer/
 
 # Getting Started with Create React App
